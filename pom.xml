@@ -3,7 +3,7 @@
     <groupId>se.arthur.com.contrastsecurity</groupId>
     <artifactId>cassandra-migration</artifactId>
     <name>Cassandra Migration</name>
-    <version>0.7-20160419204134</version>
+    <version>0.9-SNAPSHOT</version>
     <description>
         Database migration tool for Cassandra
     </description>
